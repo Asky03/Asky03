@@ -36,7 +36,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
 </div>
 
-
 ###
 
 <div align="center">
